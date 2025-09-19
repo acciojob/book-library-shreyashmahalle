@@ -31,12 +31,14 @@
       font-weight: bold;
       margin-top: 10px;
       text-transform: uppercase;
+		text-align:start;
     }
 
     .book-author {
       color: #727272;
       font-size: 14px;
       margin-bottom: 10px;
+		text-align:start;
     }
 
     .book-price {
