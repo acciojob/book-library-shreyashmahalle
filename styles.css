@@ -7,7 +7,6 @@
     .book-library {
       width: 60%;
       margin: 20px auto;
-      background-color: #ffffff;
       padding: 20px;
       box-shadow: 0 0 10px rgba(0,0,0,0.1);
     }
@@ -35,7 +34,6 @@
     }
 
     .book-author {
-      color: #727272;
       font-size: 14px;
       margin-bottom: 10px;
 		text-align:start;
@@ -46,4 +44,4 @@
       color: white;
       padding: 8px;
       font-weight: bold;
-    }
+    
